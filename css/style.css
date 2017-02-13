@@ -81,7 +81,7 @@ p {
 
 main {
   width:70%;
-  padding-right: 30px;
+  padding-right: 70px;
 }
 
 aside {
@@ -131,4 +131,35 @@ button {
   text-align: center;
   color: #fff;
   background-color: #033048;
+}
+
+.fifth {
+  background: #121212;
+  height: 250px;
+  width: 100%
+}
+
+.fifth p.logo {
+  color: yellow;
+  font-weight: 800;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.fifth p.copyright {
+  font-size: 9px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.fifth img {
+  width: 5%;
+  height: 16%;
+  display: inline-block;
+  position: relative;
+  left: 44%;
+  margin-top: 50px;
 }
